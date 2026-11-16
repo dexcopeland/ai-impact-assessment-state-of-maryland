@@ -8,11 +8,14 @@ Open the tool: [https://dexcopeland.github.io/ai-impact-assessment-state-of-mary
 
 Every screen shows this line: **Agency draft — not approval. Send DoIT the signed Executive Summary.** The package does not approve a system or authorize it to be bought, used, or deployed. The website does not send anything to DoIT. You send the signed Executive Summary.
 
+## User guide
+
+**[Read the user guide](docs/user-guide.md)** — it walks through the tool end to end: what to have ready, how the tool chooses High or General, what the four documents in the zip are, and what to do with the package once you download it.
+
 ## Documentation
 
 | Document                                           | What it covers                                                                                       |
 | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [User guide](docs/user-guide.md)                   | Using the tool end to end, and what to do with the report package it produces.                       |
 | [Contributing](CONTRIBUTING.md)                    | Running the tool locally, changing questions and rules, tests and checks, licensing, and deployment. |
 | [Roadmap](ROADMAP.md)                              | Open follow-up work after v1.                                                                        |
 | [Proposed rules](content/RULES.md)                 | The rules the tool applies, and which are still proposals.                                           |
